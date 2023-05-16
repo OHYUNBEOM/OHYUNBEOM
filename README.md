@@ -5,7 +5,7 @@
  
 ![OHYUNBEOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNBEOM&show_icons=true&theme=swift)
  
-### Teck Stacks
+## :ballot_box_with_check: Teck Stacks
 <div>
 	<img src="https://img.shields.io/badge/python-071D49?style=for-the-badge&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/.net-071D49?style=for-the-badge&logo=.net&logoColor=white">
