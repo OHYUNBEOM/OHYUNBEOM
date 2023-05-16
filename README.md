@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="OYB"&fontColor=FFFFFFFF&fontSize=30&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="성실한 개발자"&fontColor=FFFFFFFF&fontSize=30&animation=fadeIn&fontAlignY=30)
 <div>
 
 ![OHYUNBEOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNBEOM&show_icons=true&theme=swift)
