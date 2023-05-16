@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="OYB"&fontColor=FFFFFFFF&fontSize=30&animation=fadeIn&fontAlignY=30)
+<div align="center">
+
 <!--
 **OHYUNBEOM/OHYUNBEOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
