@@ -23,7 +23,7 @@
 
 ## :computer: Projects
  :link: [Bustop TouchScreen (Python/PyQT)](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
- :link: [Bustop Admin Page (WPF/MahAPP)](https://github.com/PKNU-IOT3/bustop_adminpage)<br>
+ :link: [Bustop Admin Ver(WPF/MahAPP)](https://github.com/PKNU-IOT3/bustop_adminpage)<br>
 
 ## :pencil2: Document
  :link: [Velog](https://velog.io/@dbsqja353)<br>
