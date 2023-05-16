@@ -1,8 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="성실한 개발자"&fontColor=FFFFFFFF&fontSize=30&animation=fadeIn&fontAlignY=30)
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text=OYB's%20%20GITHUB&fontSize=50&animation=fadeIn)
+
 <div>
-
+ 
 ![OHYUNBEOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNBEOM&show_icons=true&theme=swift)
-
+ 
+### Teck Stacks
+<div>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+ 
 ## :school: Education
 :pushpin: (2017.02) 센텀고등학교 졸업<br>
 :pushpin: (2023.02) 인제대학교 컴퓨터공학과 수석졸업<br>
