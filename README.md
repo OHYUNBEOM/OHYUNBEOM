@@ -1,19 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text="OYB"&fontColor=FFFFFFFF&fontSize=30&animation=fadeIn&fontAlignY=30)
-<div align="center">
+<div>
 
-<!--
-**OHYUNBEOM/OHYUNBEOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![OHYUNBEOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNBEOM&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OHYUNBEOM&layout=compact)](https://github.com/OHYUNBEOM/github-readme-stats)
+
+## :school: Education
+:pushpin: (2017.02) 센텀고등학교 졸업<br>
+:pushpin: (2023.02) 인제대학교 컴퓨터공학과 수석졸업<br>
+
+## :notebook_with_decorative_cover: Experience
+:pushpin: (2023.01.30 ~ 2023.09.01) 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 참여<br>
+
+## :computer: Projects
+ :link: [Bustop TouchScreen (Python/PyQT)](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
+ :link: [Bustop Admin Page (WPF/MahAPP)](https://github.com/PKNU-IOT3/bustop_adminpage)<br>
+
+## :pencil2: Document
+ :link: [Velog](https://velog.io/@dbsqja353)<br>
+
+## :memo: Language and certificates
+:pushpin: 정보처리기사 (2023.06.09)
+:pushpin: 컴퓨터활용능력 1급 (2022.09.30)
+:pushpin: 한국사능력검정시험 1급 (2022.10.22)
+:pushpin: TOEIC SPEAKING 170/AL/Lv.7 (2022.02.19)
+:pushpin: TOEIC 880 (2022.11.27)
+
+</div>
