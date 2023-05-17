@@ -22,8 +22,9 @@
 
 ## :computer: Projects
  :link: [Bustop TouchScreen (Python/PyQT)](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
- :link: [Bustop Admin Ver(WPF/MahAPP)](https://github.com/PKNU-IOT3/bustop_adminpage)<br>
+ :link: [Bustop Admin Ver(C#/WPF/MahAPP)](https://github.com/PKNU-IOT3/bustop_adminpage)<br>
  :link:	[Bustop App(C#/.NET Maui)](https://github.com/PKNU-IOT3/bustop_app)<br>
+ :link:	[Scada Simulation(C#/WPF/Bogus/MQTT)]([https://github.com/PKNU-IOT3/bustop_app](https://github.com/OHYUNBEOM/MiniProjects/tree/main/part2))<br>
 
 ## :pencil2: Document
  :link: [Velog](https://velog.io/@dbsqja353)<br>
