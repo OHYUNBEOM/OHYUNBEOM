@@ -10,7 +10,6 @@
 	<img src="https://img.shields.io/badge/python-071D49?style=for-the-badge&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/.net-071D49?style=for-the-badge&logo=.net&logoColor=white">
 	<img src="https://img.shields.io/badge/mysql-071D49?style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/raspberrypi-071D49?style=for-the-badge&logo=raspberrypi&logoColor=white">
 	
 </div>
  
