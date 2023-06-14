@@ -2,9 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text=OYB's%20%20GITHUB&fontSize=50&animation=fadeIn)
 
 <div>
- 
-![OHYUNBEOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNBEOM&show_icons=true&theme=swift)
- 
+  
 ## :ballot_box_with_check: Teck Stacks
 <div>
 	<img src="https://img.shields.io/badge/python-071D49?style=for-the-badge&logo=python&logoColor=white">
