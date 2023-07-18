@@ -2,6 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:242424FF,100:B3B3B3FF&height=150&section=header&text=OYB's%20%20GITHUB&fontSize=50&animation=fadeIn)
 
 <div>
+
+## 💼 Career
+<div>
+🔘 (2023.07.24 ~ ) Telechips Automotive Platform Team
+</div>
   
 ## :ballot_box_with_check: Teck Stacks
 <div>
