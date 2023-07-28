@@ -33,6 +33,7 @@
  :link: [Velog](https://velog.io/@dbsqja353)<br>
 
 ## :memo: Language and certificates
+:pushpin: SQL 개발자 (SQLD) (2023.07.07)<br>
 :pushpin: 정보처리기사 (2023.06.09)<br>
 :pushpin: 컴퓨터활용능력 1급 (2022.09.30)<br>
 :pushpin: TOEIC 880 (2022.11.27)<br>
