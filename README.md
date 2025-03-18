@@ -38,5 +38,6 @@
 :pushpin: 컴퓨터활용능력 1급 (2022.09.30)<br>
 :pushpin: TOEIC 880 (2022.11.27)<br>
 :pushpin: TOEIC SPEAKING AL(LV.7/170) (2022.02.19)<br>
+:pushpin: TOEIC SPEAKING AL(2025.03.02)<br>
 
 </div>
