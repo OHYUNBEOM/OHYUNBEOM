@@ -5,7 +5,7 @@
 
 ## 💼 Career
 <div>
-🔘 (2023.07.24 ~ ) Telechips Automotive Platform Team
+🔘 (2023.07.24 ~ ) Telechips Automotive Platform Team (Android Part)
 </div>
   
 ## :ballot_box_with_check: Teck Stacks
