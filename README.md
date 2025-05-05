@@ -17,8 +17,8 @@
 </div>
  
 ## :school: Education
-:pushpin: (2017.02) 센텀고등학교 졸업<br>
 :pushpin: (2023.02) 인제대학교 컴퓨터공학과 수석 졸업<br>
+:pushpin: (2017.02) 센텀고등학교 졸업<br>
 
 ## :notebook_with_decorative_cover: Experience
 :pushpin: (2023.01.30 ~ 2023.09.01) 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 참여<br>
